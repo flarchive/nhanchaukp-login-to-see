@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of nhanchaukp/login-to-see.** Not for installation: use [Packagist](https://packagist.org/packages/nhanchaukp/login-to-see) or the [upstream repository](https://github.com/nhanchaukp/flarum-login2see).
 
-**0** versions archived · Latest: [`v0.0.5`](https://github.com/flarchive/nhanchaukp-login-to-see/tree/archive/v0.0.5) · License: `MIT` · Flarum: `^1.0`
+**5** versions archived · Latest: [`v0.0.5`](https://github.com/flarchive/nhanchaukp-login-to-see/tree/archive/v0.0.5) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.0.1` | 2022-02-18 | `^1.0` | [Browse](https://github.com/flarchive/nhanchaukp-login-to-see/tree/archive/v0.0.1) |
+| `v0.0.2` | 2022-02-18 | `^1.0` | [Browse](https://github.com/flarchive/nhanchaukp-login-to-see/tree/archive/v0.0.2) |
+| `v0.0.3` | 2022-02-18 | `^1.0` | [Browse](https://github.com/flarchive/nhanchaukp-login-to-see/tree/archive/v0.0.3) |
+| `v0.0.4` | 2022-02-18 | `^1.0` | [Browse](https://github.com/flarchive/nhanchaukp-login-to-see/tree/archive/v0.0.4) |
+| `v0.0.5` | 2022-02-18 | `^1.0` | [Browse](https://github.com/flarchive/nhanchaukp-login-to-see/tree/archive/v0.0.5) |
 
 Catalog entry: [packages/nhanchaukp-login-to-see.json](https://github.com/flarchive/archive-index/blob/main/packages/nhanchaukp-login-to-see.json)
 
